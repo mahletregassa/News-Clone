@@ -1,2 +1,2 @@
 # News-Clone
-News-Clone by using Bootstrap
+News-Clone using Bootstrap
